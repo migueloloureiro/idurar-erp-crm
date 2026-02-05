@@ -59,7 +59,7 @@ const LoginPage = () => {
     );
   };
 
-  return <AuthModule authContent={<FormContainer />} AUTH_TITLE="Sign in" />;
+  return <AuthModule authContent={<FormContainer />} AUTH_TITLE="Entrar no sistema" />;
 };
 
 export default LoginPage;
