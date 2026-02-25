@@ -1,5 +1,6 @@
 {
-  "name": "idurar-erp-crm",
+  "name": "preventiva-solar-crm",
+  "author": "Preventiva Solar",
   "version": "4.1.0",
   "engines": {
     "npm": "10.2.4",
