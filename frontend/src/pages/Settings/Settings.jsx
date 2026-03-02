@@ -32,19 +32,19 @@ export default function Settings() {
       label: translate('Company Settings'),
       icon: <TrophyOutlined />,
       children: <CompanySettings />,
-    },
+    },/*
     {
       key: 'company_logo',
       label: translate('Company Logo'),
       icon: <FileImageOutlined />,
       children: <CompanyLogoSettings />,
-    },/*
+    },*/
     {
       key: 'currency_settings',
       label: translate('Currency Settings'),
       icon: <DollarOutlined />,
       children: <MoneyFormatSettings />,
-    },*/
+    },
     {
       key: 'finance_settings',
       label: translate('Finance Settings'),
