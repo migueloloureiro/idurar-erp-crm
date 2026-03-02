@@ -38,13 +38,13 @@ export default function Settings() {
       label: translate('Company Logo'),
       icon: <FileImageOutlined />,
       children: <CompanyLogoSettings />,
-    },
+    },/*
     {
-      /*key: 'currency_settings',
+      key: 'currency_settings',
       label: translate('Currency Settings'),
       icon: <DollarOutlined />,
-      children: <MoneyFormatSettings />,*/
-    },
+      children: <MoneyFormatSettings />,
+    },*/
     {
       key: 'finance_settings',
       label: translate('Finance Settings'),
