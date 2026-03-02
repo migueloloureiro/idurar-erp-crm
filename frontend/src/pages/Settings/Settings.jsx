@@ -40,10 +40,10 @@ export default function Settings() {
       children: <CompanyLogoSettings />,
     },
     {
-      key: 'currency_settings',
+      /*key: 'currency_settings',
       label: translate('Currency Settings'),
       icon: <DollarOutlined />,
-      children: <MoneyFormatSettings />,
+      children: <MoneyFormatSettings />,*/
     },
     {
       key: 'finance_settings',

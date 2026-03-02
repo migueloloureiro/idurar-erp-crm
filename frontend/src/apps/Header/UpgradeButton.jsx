@@ -8,8 +8,9 @@ import useLanguage from '@/locale/useLanguage';
 
 export default function UpgradeButton() {
   const translate = useLanguage();
+  retunr null;
 
-  return (
+  /*return (
     <Badge count={1} size="small">
       <Button
         type="primary"
@@ -28,7 +29,7 @@ export default function UpgradeButton() {
         {translate('Try Entreprise Version')}
       </Button>
     </Badge>
-  );
+  );*/
 }
 
 console.log(
