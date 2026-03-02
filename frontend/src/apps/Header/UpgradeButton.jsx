@@ -8,7 +8,7 @@ import useLanguage from '@/locale/useLanguage';
 
 export default function UpgradeButton() {
   const translate = useLanguage();
-  retunr null;
+  return null;
 
   /*return (
     <Badge count={1} size="small">
